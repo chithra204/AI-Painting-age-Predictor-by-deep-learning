@@ -8,8 +8,4 @@ matplotlib
 gradio
 requests
 
-
-
-How to install the requirements
-Open the VS Code terminal in your project folder and run:
 pip install -r requirements.txt
