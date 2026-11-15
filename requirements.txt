@@ -1,3 +1,4 @@
+
 tensorflow==2.20.0
 keras
 pandas
@@ -8,4 +9,3 @@ matplotlib
 gradio
 requests
 
-pip install -r requirements.txt
