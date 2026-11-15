@@ -1,0 +1,15 @@
+tensorflow==2.20.0
+keras
+pandas
+numpy
+Pillow
+scikit-learn
+matplotlib
+gradio
+requests
+
+
+
+How to install the requirements
+Open the VS Code terminal in your project folder and run:
+pip install -r requirements.txt
